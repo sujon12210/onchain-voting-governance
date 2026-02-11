@@ -1,0 +1,12 @@
+{
+  "name": "onchain-voting-governance",
+  "version": "1.0.0",
+  "description": "ERC-20 based DAO Governance System",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
